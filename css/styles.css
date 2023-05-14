@@ -1,0 +1,41 @@
+body {
+
+    background-color: #0c1f2f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E8E9EB;
+
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #E8E9EB;
+    border-width: 7px;
+    width: 5%;
+    background: none;
+
+}
+
+h1 {
+
+    color: #e18c14;
+
+}
+
+img {
+    outline-style: solid;
+    outline-color: #E8E9EB;
+    border-radius: 100%;
+    
+}
+
+.hobbies:hover {
+    zoom: 105%;
+    color: #e18c14;
+}
+
+.contact-me:hover {
+    zoom: 105%;
+    color: #e18c14;
+}
